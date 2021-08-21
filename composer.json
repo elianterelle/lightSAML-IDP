@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/lightsaml-idp",
+    "name": "elianterelle/lightsaml-idp",
     "license": "GPL-3.0+",
     "type": "library",
     "description": "Light SAML2 IDP php library",
